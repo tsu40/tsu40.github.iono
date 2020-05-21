@@ -76,10 +76,12 @@ body {
 
 .navbar ul li a:hover {
 
-    background-color: blue;
+border-bottom: 3px solid red;
 
-    color: red;
+}
 
+.navbar a.active {
+    border-bottom: 3px solid red;
 }
 
 
