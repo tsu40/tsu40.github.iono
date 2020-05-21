@@ -1,1 +1,155 @@
 
+body {
+
+    background-color:white;
+
+    padding: 0.5px;
+
+    margin: 0px;
+
+}
+
+.navbar {
+
+    background-color: lightblue;
+
+    list-style-type: none;
+
+    line-height: 50px;
+
+    font-size: 20px;
+
+    font-family: Times New Roman;
+
+    padding: 0;
+
+    margin: 0, auto;
+
+    height: 100%;
+
+    width: 20%;
+
+    float: left;
+
+    position: fixed;
+
+    text-align: center;
+
+    border-right: 2px solid black;
+
+}
+
+
+
+#navbar {
+
+    margin-top: -20px;
+
+}
+
+.navbar ul {
+
+    padding: 0;
+
+    margin: 0;
+
+    list-style-type: none;
+
+    overflow: auto;
+
+}
+
+
+
+.navbar ul li a {
+
+    display: block;
+
+    padding: 10px 0;
+
+}
+
+.navbar ul li a:hover {
+
+    background-color: blue;
+
+    color: red;
+
+}
+
+
+
+.everything {
+
+    padding: 10px 15px 10px 20px;
+
+    margin-left: 20%;
+
+    font-family: Roboto;
+
+}
+
+
+
+.aboutme {
+
+
+
+}
+
+
+
+h1 {
+
+    font-family: Roboto;
+
+    font-size: 75px;
+
+    margin-bottom: -20px;
+
+
+
+}
+
+
+
+h2 {
+
+    text-align: center;
+
+    font-size: 40px
+
+}
+
+
+
+h3{
+
+    font-size: 24px;
+
+}
+
+
+
+li,
+
+p {
+
+    font-size: 20px;
+
+
+
+}
+
+
+
+.Intro {
+
+
+
+}
+img{
+    float: right;
+    margin-right: 150px;
+    padding-left: 30px;
+}
