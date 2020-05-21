@@ -9,12 +9,6 @@ body {
 
 }
 
-
-@media screen and (max-width: 768px) {
-#desktop {display: none;}
-#mobile {display: block;}
-}
-
 .navbar {
 
     background-color: lightblue;
